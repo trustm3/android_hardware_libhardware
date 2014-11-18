@@ -46,7 +46,8 @@ __BEGIN_DECLS
 /**
  * The id of this module
  */
-#define SENSORS_HARDWARE_MODULE_ID "sensors"
+#define SENSORS_HARDWARE_MODULE_ID "sensors-client"
+#define SENSORS_SERVER_HARDWARE_MODULE_ID "sensors"
 
 /**
  * Name of the sensors device to open
