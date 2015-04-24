@@ -31,7 +31,8 @@ __BEGIN_DECLS
 /**
  * The id of this module
  */
-#define GPS_HARDWARE_MODULE_ID "gps"
+#define GPS_HARDWARE_MODULE_ID "gps-client"
+#define GPS_SERVER_HARDWARE_MODULE_ID "gps"
 
 
 /** Milliseconds since January 1, 1970 */
